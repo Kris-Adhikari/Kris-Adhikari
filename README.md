@@ -27,6 +27,7 @@ I am a Computer Science student at the University of Calgary, passionate about e
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=for-the-badge&logo=data-structures&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge&logo=algorithms&logoColor=white)
 ![Version Control](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
