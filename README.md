@@ -1,5 +1,5 @@
-# Hi there, I'm Kris 👋
-## 📌 About Me:
+## Hi there, I'm Kris 👋
+## About Me:
 I am a Computer Science student at the University of Calgary, passionate about exploring various programming fields and creating real-world applications that solve meaningful problems.
 
 ## 🔧 **Tech Stack**
