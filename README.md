@@ -1,6 +1,6 @@
 ## Hi there, I'm Kris 👋
 ## About Me:
-I am a Computer Science student at the University of Calgary, passionate about creating real-world applications that solve meaningful problems. I am currently a swe intern @ quack
+I am a Computer Science student at the University of Calgary, passionate about creating real-world applications that solve meaningful problems. Feel free to reach out at Kris.Adhikari8@gmail.com
 
 ## **Skills**
 
